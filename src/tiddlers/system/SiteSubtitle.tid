@@ -1,6 +1,6 @@
 created: 20141001162443294
-modified: 20141001162456845
+modified: 20210625195547612
 title: $:/SiteSubtitle
 type: text/vnd.tiddlywiki
 
-a skeleton plugin demo ~TiddlyWiki
+Plugin to provide field-based TOC macros for TW5

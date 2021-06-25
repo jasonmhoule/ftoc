@@ -1,0 +1,13 @@
+created: 20210625191752711
+modified: 20210625192034369
+tags: 
+title: TOC Example
+type: text/vnd.tiddlywiki
+
+! ftoc
+<<ftoc "level-one" "toc-field">>
+
+<hr>
+
+! ftoc-selective-expandable
+<<ftoc-selective-expandable "level-one" "toc-field">>
